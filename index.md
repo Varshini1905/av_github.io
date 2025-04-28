@@ -13,49 +13,33 @@ I believe that cybersecurity is not just about defense; it’s about creating a 
 
 In my free time, I enjoy working on cyber projects and practicing in simulation labs, which allows me to deepen my understanding of the field. Thank you for visiting my portfolio! I invite you to explore my work and connect with me if you’re interested in collaboration or discussions in the realm of technology and cybersecurity.
 
-## Education
+# Education
 
 **Bachelor of Technology (B.Tech) in Computer Science**  
 [GVP College of Engineering]  
 [Visakhapatnam,AP]  
 [NOV,2022] - Present
 
-- Relevant Coursework: 
-  - Data Structures and Algorithms
-  - Computer Networks
-  - Cybersecurity Fundamentals
-  - Database Management Systems
-  - Software Engineering
-### Header 3
+# Skills
+- Data Structures and Algorithms
+- Computer Networks
+- Cybersecurity Fundamentals
+- SQL
+- Python
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+# Projects
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+# Experience
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# Certifications
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -64,11 +48,11 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+# Contact Information
 
 * * *
 
-### Here is an unordered list:
+# Resume
 
 *   Item foo
 *   Item bar
