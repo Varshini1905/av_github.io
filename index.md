@@ -2,24 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+# About Me
 
-There should be whitespace between paragraphs.
+Hello! I’m D.S.L.A. Varshini, a dedicated B.Tech student specializing in Computer Science with a strong passion for cybersecurity. My journey in technology began with a fascination for how systems operate and the critical importance of safeguarding them against threats.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As I pursue my degree, I have immersed myself in various aspects of computer science, focusing on building a solid foundation in programming, networking, and security protocols.My passion for cybersecurity drives me to stay updated on the latest trends and challenges in the field, and I am eager to apply my knowledge to real-world scenarios.
 
-# Header 1
+I believe that cybersecurity is not just about defense; it’s about creating a safe digital landscape for everyone. I am excited to explore opportunities that allow me to contribute to this mission while continuing to learn and grow.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In my free time, I enjoy working on cyber projects and practicing in simulation labs, which allows me to deepen my understanding of the field. Thank you for visiting my portfolio! I invite you to explore my work and connect with me if you’re interested in collaboration or discussions in the realm of technology and cybersecurity.
 
-## Header 2
+## Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Bachelor of Technology (B.Tech) in Computer Science**  
+[GVP College of Engineering]  
+[Visakhapatnam,AP]  
+[NOV,2022] - Present
 
+- Relevant Coursework: 
+  - Data Structures and Algorithms
+  - Computer Networks
+  - Cybersecurity Fundamentals
+  - Database Management Systems
+  - Software Engineering
 ### Header 3
 
 ```js
